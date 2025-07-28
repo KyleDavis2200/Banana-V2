@@ -5,7 +5,7 @@ Plastic Antweight Torque Walker Combat Robot
 ## Features
 
 ## Pictures
-<img width="1205" height="560" alt="image" src="https://github.com/user-attachments/assets/156bcb10-3a51-4d1a-b2ec-7f6860d38217" />
+<img width="1111" height="447" alt="image" src="https://github.com/user-attachments/assets/e1d5cd45-1935-4543-a0bb-189f177c6734" />
 <img width="735" height="507" alt="image" src="https://github.com/user-attachments/assets/46712d73-7ed8-4865-9f84-28ad6c422a6b" />
 <img width="929" height="578" alt="image" src="https://github.com/user-attachments/assets/690f65fb-2e36-4aa8-9cbf-09c03499f7de" />
 <img width="1253" height="552" alt="image" src="https://github.com/user-attachments/assets/383fd4ab-7ff8-4ca0-831d-31b979c44042" />
