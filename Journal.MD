@@ -11,7 +11,10 @@ Started the CAD design of the robot. I had 7 inch blades tilted at a 20 degree a
 
 2 Hours
 
-The first thing I did today was redesign the frame to 
+My first priority today was ballooning out the middle of the robot to create more space for electronics. This was a change we had to make at Undercity because our initial design did not have enough space for all of the electronics to fit. This was accomplished through a few sketches and a loft. The downside of this is that it caused the shell feature to fail when leaving more than a 2.5mm shell, which led to hollowing out the insides of the robot taking much longer than I expected. 
+![](https://github.com/KyleDavis2200/Banana-V2/blob/main/IMAGES/image_2025-07-28_185243989.png)
+
+
 
 7/28/2025
 
