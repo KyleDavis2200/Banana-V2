@@ -2,6 +2,8 @@
 
 1 Hour
 
+The basic concept of this robot is a torque walker robot, which uses the torque created from spinning each weapon up and down to walk the robot forwards. This grants the robot a weight bonus, allowing it to use bigger weapons. This robot is designed around a Repeat Dual ESC, two Repeat 2822 Motors, and a 4S 300mah battery. For the switch, I will be using a Fingertech switch.
+
 Started the CAD design of the robot. I had 7 inch blades tilted at a 20 degree angle for this design, but I may opt to decrease the angle.  I am also looking into adding feet to the robot after seeing them implemented on similar robots.
 ![](https://github.com/KyleDavis2200/Banana-V2/blob/main/IMAGES/image_2025-07-25_222331245.png)
 
