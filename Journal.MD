@@ -17,3 +17,5 @@ The first thing I did today was add mounting holes for the weapon motors into th
 
 Next, I designed a weapon blade that the motor would fit inside of. This motor also allows me to use mounting screws to hold the blade on, which should solve some of the issues we experienced with the blades comingoff at Undercity.
 ![](https://github.com/KyleDavis2200/Banana-V2/blob/main/IMAGES/image_2025-07-28_180544761.png)
+After this, I created a spine to help the robot self right, which was one of the major issues we had with it at Undercity.
+![](https://github.com/KyleDavis2200/Banana-V2/blob/main/IMAGES/image_2025-07-28_181720749.png)
