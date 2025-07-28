@@ -1,6 +1,6 @@
 # Banana-V2
 Plastic Antweight Torque Walker Combat Robot
-<img width="1205" height="560" alt="image" src="https://github.com/user-attachments/assets/b67eccf0-1ea2-4183-994c-b7aca37ccc34" />
+<img width="1188" height="540" alt="image" src="https://github.com/user-attachments/assets/7672ee43-186e-42fc-b279-d94d15471d05" />
 
 ## Features
 
