@@ -1,5 +1,5 @@
 # Banana-V2
-Plastic Antweight Torque Walker Combat Robot
+Banana V2 is a plastic antweight torque walker combat robot that is an upgrade upon [Banana}(https://github.com/DylM0nster22/Gryo-Walker) which my group built at Undercity.
 <img width="1188" height="540" alt="image" src="https://github.com/user-attachments/assets/7672ee43-186e-42fc-b279-d94d15471d05" />
 
 ## Features
