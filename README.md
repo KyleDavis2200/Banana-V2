@@ -4,6 +4,14 @@ Plastic Antweight Torque Walker Combat Robot
 
 ## Features
 
+* Torque walker locomotion
+* Self righting "spine"
+* Two 6.75" diameter weapons weighing 117g each
+* Two 2822 weapon motors
+* 4S battery
+* Dual AM32 ESC
+* ELRS Receiver 
+
 ## Pictures
 <img width="1111" height="447" alt="image" src="https://github.com/user-attachments/assets/e1d5cd45-1935-4543-a0bb-189f177c6734" />
 <img width="735" height="507" alt="image" src="https://github.com/user-attachments/assets/46712d73-7ed8-4865-9f84-28ad6c422a6b" />
