@@ -1,3 +1,12 @@
+---
+title: Banana V2
+author: Kyle Davis
+description: A torque walker plastic antweight combat robot
+created_at: 2025-07-25
+---
+
+Total Time 6 Hours
+
 7/25/2025
 
 1 Hour
