@@ -1,6 +1,6 @@
 # Banana-V2
 Banana V2 is a plastic antweight torque walker combat robot that is an upgrade upon [Banana](https://github.com/DylM0nster22/Gryo-Walker) which my group built at Undercity.
-<img width="1188" height="540" alt="image" src="https://github.com/user-attachments/assets/7672ee43-186e-42fc-b279-d94d15471d05" />
+<img width="1073" height="549" alt="image" src="https://github.com/user-attachments/assets/95e7f97f-3464-405e-a42a-630dd126b265" />
 
 ## Features
 
@@ -13,11 +13,11 @@ Banana V2 is a plastic antweight torque walker combat robot that is an upgrade u
 * ELRS Receiver 
 
 ## Pictures
-<img width="1111" height="447" alt="image" src="https://github.com/user-attachments/assets/e1d5cd45-1935-4543-a0bb-189f177c6734" />
-<img width="735" height="507" alt="image" src="https://github.com/user-attachments/assets/46712d73-7ed8-4865-9f84-28ad6c422a6b" />
-<img width="929" height="578" alt="image" src="https://github.com/user-attachments/assets/690f65fb-2e36-4aa8-9cbf-09c03499f7de" />
-<img width="1253" height="552" alt="image" src="https://github.com/user-attachments/assets/383fd4ab-7ff8-4ca0-831d-31b979c44042" />
-<img width="1161" height="649" alt="image" src="https://github.com/user-attachments/assets/ba6e5fe1-31a4-4ac1-9ad9-9a557fd7b696" />
+<img width="1087" height="519" alt="image" src="https://github.com/user-attachments/assets/a13ba0c9-e10e-422b-8b71-ff1504e69c8c" />
+<img width="588" height="385" alt="image" src="https://github.com/user-attachments/assets/8aaae343-3db2-481a-89b3-6c4c88aa805c" />
+<img width="895" height="542" alt="image" src="https://github.com/user-attachments/assets/7e66a6ba-e1c7-4866-b274-57dfa6b2df9d" />
+<img width="852" height="515" alt="image" src="https://github.com/user-attachments/assets/b9f770be-acab-4ff1-ac06-0f12c797e71d" />
+<img width="667" height="487" alt="image" src="https://github.com/user-attachments/assets/88c3a7c0-9243-45a2-90a8-6deda9cdb909" />
 
 ## Background
 
