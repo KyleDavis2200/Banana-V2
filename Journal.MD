@@ -39,3 +39,10 @@ Next, I designed a weapon blade that the motor would fit inside of. This motor a
 
 After this, I created a spine to help the robot self right, which was one of the major issues we had with it at Undercity.
 ![](https://github.com/KyleDavis2200/Banana-V2/blob/main/IMAGES/image_2025-07-28_181720749.png)
+
+8/4/2025
+
+0.25 Hours
+
+Added a wiring diagram and redesigned the weapon to not have any chamfers on it in order to make it stronger and more effective. 
+![](https://github.com/KyleDavis2200/Banana-V2/blob/main/IMAGES/image_2025-08-04_221221527.png)
